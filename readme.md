@@ -24,6 +24,8 @@ Include module at your application
 
 ```javascript
 const AlignmentTuneTool = require('editorjs-text-alignment-blocktune');
+// or
+import AlignmentTuneTool from "editorjs-text-alignment-blocktune";
 ```
 
 ### Download to your project's source dir
